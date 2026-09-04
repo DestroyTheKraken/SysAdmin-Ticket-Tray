@@ -1,0 +1,7 @@
+Status: Closed — Resolved
+Ticket: 2026-09-03-grok-pwa-tiling-spill
+Opened: 2026-09-03
+Closed: 2026-09-04
+Resolution code: Config change
+Summary: Sceptre F22 (portrait Display 2) scale reduced from 125% to 100%, increasing logical width from 864 to 1080 so Chrome Grok PWA half-tiles (~500px min width) no longer spill onto Samsung Display 1.
+Agent: Joshua Hickman — Desktop Support
