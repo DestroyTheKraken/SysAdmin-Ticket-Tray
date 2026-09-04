@@ -44,7 +44,9 @@ cd ~/SysAdmin-Ticket-Tray
 
 Primary store of record: **this GitHub repo** (mock ticket tray).  
 Optional amplifiers: GitHub Pages / Hugo site, X posts linking tickets, LinkedIn summaries.  
-Decision write-up: `journal/2026-09-04-publishing-strategy.md` (filled after deep-research).
+Decision write-up: [`journal/2026-09-04-publishing-strategy.md`](journal/2026-09-04-publishing-strategy.md).
+
+**Live repo:** https://github.com/DestroyTheKraken/SysAdmin-Ticket-Tray
 
 ## Related
 
